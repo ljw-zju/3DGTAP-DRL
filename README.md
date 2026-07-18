@@ -1,6 +1,6 @@
 # 3D Geometric Tooth Alignment Planning via Deep Reinforcement Learning
 
-[![演示视频封面](./assets/cover.png)](https://github.com/ljw-zju/3DGTAP-DRL/releases/tag/v1.0-video/demo.mp4)
+[![演示视频封面](./assets/cover.png)](https://github.com/ljw-zju/3DGTAP-DRL/releases/v1.0-video/demo.mp4)
 
 
 
