@@ -4,11 +4,9 @@
 https://github.com/ljw-zju/3DGTAP-DRL/releases/download/v1.0-video/demo.mp4
 
 
-
+## Overview of the Framework
 In this study, we present a novel deep reinforcement learning-based approach to automated 3D geometric tooth alignment planning.
 The method frames the problem as a Markov Decision Process(MDP) to capture the sequential decision-making nature of the task.
-
-## Overview of the Framework
 
 Our framework consists of a custom RL environment and a DDPG agent with several key innovations:
 (1) a transformer-based agent to model complex tooth interactions and handle high-dimensional state and action spaces.
